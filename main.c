@@ -1,6 +1,4 @@
-// ELEC 327
-// Midterm Project
-// Yuan Gao; Cheng Li; Xinyi Cen
+
 //
 //
 
